@@ -1,0 +1,74 @@
+/*style do currico .css */
+
+IMG.displayed { 
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #ddd;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+}
+
+p {
+    text-align: justify;
+    color: #444;
+    font-family: Arial, 'Helvetica', sans-serif;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 20%;
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(140, 76, 8);
+    font-family: Arial, 'Helvetica', sans-serif;
+    font-weight: lighter;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 20%;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(140, 76, 8);
+    font-family: Arial, 'Helvetica', sans-serif;
+    font-weight: bold;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 20%;
+}
+
+li {
+    text-align: left;
+    color: black;
+    font-family: Arial, 'Helvetica', sans-serif;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 20%;
+}
+
+h4 {
+    text-align: left;
+    color: rgb(140, 76, 8);
+    font-family: Arial, 'Helvetica', sans-serif;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 20%;
+}
